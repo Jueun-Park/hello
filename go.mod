@@ -1,3 +1,3 @@
-module example/jueun-park/hello
+module example/user/hello
 
 go 1.18
